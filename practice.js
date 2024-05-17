@@ -1,10 +1,10 @@
 
 
 class Dog{
-    constructor(name, breed, price){
+    constructor(name, breed, color){
         this.breed = breed,
         this.name = name,
-        this.price = price
+        this.color = color
     }
 }
 
