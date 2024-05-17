@@ -9,4 +9,8 @@ class Dog{
 
 const Bello = new Dog("Bello", "poodle")
 
+const Bruno = new Dog("Bruno", "pitbull")
+
 console.log(Bello.name)
+
+console.log(Bruno.name)
