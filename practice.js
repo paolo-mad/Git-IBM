@@ -8,4 +8,4 @@ class Dog{
     }
 }
 
-const Arie = new Dog("Arie", "teckel", "black")
+const Arie = new Dog("Arie", "teckel", "green")
