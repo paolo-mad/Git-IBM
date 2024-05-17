@@ -7,7 +7,7 @@ class Dog{
     }
 }
 
-const Bello = new Dog("Bello", "poodle")
+
 
 const Bruno = new Dog("Bruno", "pitbull")
 
