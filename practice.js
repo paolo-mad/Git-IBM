@@ -12,5 +12,4 @@ class Dog{
 const Bruno = new Dog("Bruno", "pitbull")
 
 
-
-console.log(Bruno.name)
+)
